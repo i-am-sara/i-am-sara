@@ -26,6 +26,8 @@
   <img src="asset/arduino.svg" alt="Arduino" title="Arduino" height="40">
   <img src="asset/Matlab_Logo.png" alt="MATLAB" title="MATLAB" height="40">
   <img src="asset/rstudioide.svg" alt="RStudio" title="RStudio" height="40">
+  <img src="asset/latex.svg" alt="Latex" title="latex" height="40">
+  <img src="asset/anaconda.svg" alt="Anaconda" title="Anaconda" height="40">
 </p>
 
 ---
@@ -34,7 +36,5 @@
 
 ### 📌 Pinned Projects
 
-[![Readme Generator](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=radical)](https://github.com/your-username/your-repo)
-[![Cool App](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-cool-app&theme=radical)](https://github.com/your-username/your-cool-app)
 
 
