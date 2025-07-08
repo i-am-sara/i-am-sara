@@ -30,19 +30,11 @@
 
 ---
 
-### 📈 GitHub Stats
 
-![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-sara&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-sara&layout=compact&theme=radical)
-
----
 
 ### 📌 Pinned Projects
 
 [![Readme Generator](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-repo&theme=radical)](https://github.com/your-username/your-repo)
 [![Cool App](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-cool-app&theme=radical)](https://github.com/your-username/your-cool-app)
 
----
 
-### 😄 Fun Fact
