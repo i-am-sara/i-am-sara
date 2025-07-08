@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently studying at: **University of Malaga**.
-- 🌱 I’m currently learning:  `Data analysis`and 'AI'.
+- 🌱 I’m currently learning:  `Data analysis`and `AI`.
 - 💡 I love exploring new technologies and using them to solve real-life problems.
 - 📫 How to reach me: · [LinkedIn](https://www.linkedin.com/in/sara-gimenez-gomez-09ab232b4/) 
 
