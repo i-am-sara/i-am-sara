@@ -39,6 +39,7 @@
 - Database managment using **MySQL** for storing and querying data.
 - Data exploration and statistical modeling with **RStudio**
 
+---
 
 ### 📌 Pinned Projects
 
