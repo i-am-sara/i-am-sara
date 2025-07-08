@@ -1,7 +1,8 @@
+![Banner](https://capsule-render.vercel.app/api?type=blur&height=299&color=gradient&text=Code%20That%20Heals&reversal=true&fontColor=808080&fontSize=70&rotate=0&fontAlign=60)
+
 ## ✨ Hi there, I'm Sara 👋
 
-![Welcome banner][(https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&fontAlignY=35&desc=I'm%20Sara,%20a%20curious%20developer%20exploring%20code&descAlignY=60)
-](https://capsule-render.vercel.app/api?type=blur&height=299&color=gradient&text=Code%20That%20Heals&reversal=true&fontColor=808080&fontSize=70&rotate=0&fontAlign=60)
+
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently working on: **cool personal projects** and contributing to **open-source**.
