@@ -8,14 +8,16 @@
 - 🔭 I’m currently studying at: **University of Malaga**.
 - 🌱 I’m currently learning: `React`, `Node.js`, `Python`, and a bit of `Machine Learning`.
 - 💡 I love exploring new technologies and using them to solve real-life problems.
-- 📫 How to reach me: · [LinkedIn](](https://www.linkedin.com/in/sara-gimenez-gomez-09ab232b4/)) · [yourportfolio.com](https://yourportfolio.com)
+- 📫 How to reach me: · [LinkedIn](https://www.linkedin.com/in/sara-gimenez-gomez-09ab232b4/) · [yourportfolio.com](https://yourportfolio.com)
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ My Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,figma,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=python,java,html,css,vscode,github)
 
+- 📊 RStudio · 🧪 MATLAB · 🖥 Arduino · ⚙ Ensamblador  
+- 🖼 DICOM · ✍️ Markdown 
 ---
 
 ### 📈 GitHub Stats
