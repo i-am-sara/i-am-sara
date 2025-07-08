@@ -5,10 +5,10 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working on: **cool personal projects** and contributing to **open-source**.
+- 🔭 I’m currently studying at: **University of Malaga**.
 - 🌱 I’m currently learning: `React`, `Node.js`, `Python`, and a bit of `Machine Learning`.
 - 💡 I love exploring new technologies and using them to solve real-life problems.
-- 📫 How to reach me: [@your_twitter](https://twitter.com/yourprofile) · [LinkedIn](https://linkedin.com/in/yourprofile) · [yourportfolio.com](https://yourportfolio.com)
+- 📫 How to reach me: · [LinkedIn](](https://www.linkedin.com/in/sara-gimenez-gomez-09ab232b4/)) · [yourportfolio.com](https://yourportfolio.com)
 
 ---
 
