@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=blur&height=299&color=gradient&text=Code%20That%20Heals&reversal=true&fontColor=FFFF00&fontSize=70&rotate=0&fontAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=blur&height=299&color=gradient&text=Code%20That%20Heals&reversal=true&fontColor=247C6D&fontSize=70&rotate=0&fontAlign=50)
 
 ## ✨ Hi there, I'm Sara 👋
 
