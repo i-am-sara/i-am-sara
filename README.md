@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently studying at: **University of Malaga**.
-- 🌱 I’m currently learning: `React`, `Node.js`, `Python`, and a bit of `Machine Learning`.
+- 🌱 I’m currently learning:  `Machine Learning`.
 - 💡 I love exploring new technologies and using them to solve real-life problems.
 - 📫 How to reach me: · [LinkedIn](https://www.linkedin.com/in/sara-gimenez-gomez-09ab232b4/) 
 
@@ -31,7 +31,13 @@
 </p>
 
 ---
-
+###  Strong academic background in...
+- Tools for biomedical **signal and image processing** (using MATLAB).
+- Circuit design with **Simulink** and **Arduino**.
+- Biomechanichal modeling like fluid dynamics with **Ansys Fluent** and **MATLAB**.
+- Data analysis and machine learning using **Python** in **Jupyter Notebooks**(Anaconda).
+- Database managment using **MySQL** for storing and querying data.
+- Data exploration and statistical modeling with **RStudio**
 
 
 ### 📌 Pinned Projects
