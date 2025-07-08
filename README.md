@@ -14,12 +14,20 @@
 
 ### 🛠️ My Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,java,html,css,vscode,github)
-<img src="asset/icons/arduino.svg" alt="Arduino" width="40" />
-<img src="asset/icons/Matlab_Logo.png" alt="MATLAB" width="40" />
-<img src="asset/icons/rstudioide.svg" alt="Rstudio" width="40" />
-- 📊 RStudio · 🧪 MATLAB · 🖥 Arduino   
-- 🖼 DICOM · ✍️ Markdown 
+<p align="center">
+  <b>🚀 My Skills</b><br><br>
+
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="40">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="40">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" height="40">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" height="40">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" height="40">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" height="40">
+  <img src="asset/arduino.svg" alt="Arduino" title="Arduino" height="40">
+  <img src="asset/Matlab_Logo.png" alt="MATLAB" title="MATLAB" height="40">
+  <img src="asset/rstudioide.svg" alt="RStudio" title="RStudio" height="40">
+</p>
+
 ---
 
 ### 📈 GitHub Stats
