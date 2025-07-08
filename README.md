@@ -15,7 +15,7 @@
 ### 🛠️ My Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=python,java,html,css,vscode,github)
-
+<img src="asset/icons/arduino.svg" alt="Arduino" width="40" />
 - 📊 RStudio · 🧪 MATLAB · 🖥 Arduino · ⚙ Ensamblador  
 - 🖼 DICOM · ✍️ Markdown 
 ---
