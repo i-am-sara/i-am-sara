@@ -16,6 +16,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=python,java,html,css,vscode,github)
 <img src="asset/icons/arduino.svg" alt="Arduino" width="40" />
+<img src="asset/icons/Matlab_Logo.png" alt="MATLAB" width="40" />
+<img src="asset/icons/rstudioide.svg" alt="Rstudio" width="40" />
 - 📊 RStudio · 🧪 MATLAB · 🖥 Arduino   
 - 🖼 DICOM · ✍️ Markdown 
 ---
